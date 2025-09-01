@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AkshatJindal
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Business Analytics
 - 💞️ I’m looking to collaborate on django projects
 - 📫 contact me at aksj809@gmail.com
 
